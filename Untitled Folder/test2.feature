@@ -1,3 +1,4 @@
 Feature: test
-  Exemple: blabla
-  Given blabla
+    Background: 
+      Given set up
+
