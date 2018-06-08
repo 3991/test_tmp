@@ -2,7 +2,7 @@ Feature: test
     Background: 
       Given set up
     Scenario: DuckDuckGo search
-        When search "salto consulting"
+        When search "salto consulting"1
         And retrieve the first page result
         Then I must be on salto consulting web site
 
