@@ -1,4 +1,4 @@
-Feature: test
+Feature: long description of the feature here
     Background: 
       Given set up
     Scenario: DuckDuckGo search
