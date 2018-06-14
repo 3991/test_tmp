@@ -6,7 +6,7 @@ Feature: long description of the feature here
         And add test
         Then then test
         Given test test
-    Scenario: DuckDuckGo search
+    Scenario: DuckDuckGo search1
         When search "salto consulting"1
         And retrieve the first page result
         Then I must be on salto consulting web site
