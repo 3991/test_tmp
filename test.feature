@@ -8,3 +8,6 @@ Feature: short description of the feature
     But blablabla
   Background:
     Given blablabla given
+  
+  Scenario Outline: Test state
+    Given <state> without a table
